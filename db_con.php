@@ -7,7 +7,7 @@ const MYSQLDB   = 'sakila'; // database name */
 
 /* const HOSTNAME = 'fernandogestomoreno.dk.mysql'; // server
 const MYSQLUSER = 'fernandogestomoreno_dk'; // database user
-const MYSQLPASS = cph26379'; // database password
+const MYSQLPASS = password'; // database password
 const MYSQLDB = 'fernandogestomoreno_dk'; // database name
 // Create database connection object*/
 
